@@ -1,0 +1,2 @@
+## ⚙️ Requirements
+py7zr
